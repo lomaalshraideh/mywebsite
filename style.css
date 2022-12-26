@@ -307,7 +307,8 @@ p {
 }
 .TESTINOMIALS {
 	background-color: black;
-	height: 2500px;
+	height: 1300px;
+	padding-bottom: 100px;
 }
 .header4-contaor {
 	display: grid;
@@ -564,6 +565,9 @@ p {
 		align-items: center;
 		justify-content: center;
 	} */
+	#abc {
+		display: none;
+	}
 	.dad-logo-contanor {
 		display: grid;
 		grid-template-columns: repeat(2, 1fr);
